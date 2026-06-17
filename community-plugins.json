@@ -34060,5 +34060,12 @@
     "author": "JhihJian",
     "description": "Converts long dashed divider input into timestamped dividers in Reading view and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jhihjian/obsidian-hr-timestamp-plugin"
+  },
+  {
+    "id": "notes-to-html-pages",
+    "name": "Notes to HTML Pages",
+    "author": "Afan",
+    "description": "Export Markdown notes into clean, readable HTML pages with table of contents and in-app reading. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "afanos/notes-to-html-pages"
   }
 ]
